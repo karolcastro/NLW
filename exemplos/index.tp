@@ -1,0 +1,15 @@
+// function cadastrarUsuario(id, nome, email){
+//     console.log(id, nome, email)
+// }
+
+// class CadastrarAdministrador {
+//     cadastro(){
+//         cadastrarUsuario('stringId', 'KarolNome', 'karol@email.com')
+//     }
+// }
+
+// class CadastrarVendedor {
+//     cadastro() {
+//         cadastrarUsuario(5456465456, 'Danilo', 'dabilo@email.com')
+//     }
+// }
