@@ -1,4 +1,5 @@
 import express, { request, response } from 'express';
+import "./dataBase";
 
 const app = express();
 
